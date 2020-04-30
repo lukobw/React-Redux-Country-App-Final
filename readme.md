@@ -1,1 +1,1 @@
-https://lukobw.github.io/React_Country_Search
+https://lukobw.github.io/Country-Search/
